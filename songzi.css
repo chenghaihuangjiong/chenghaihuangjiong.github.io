@@ -1,0 +1,134 @@
+#header,#general,#objective,#skillareas,#lastModified,#copyright
+{
+	margin: auto;
+	text-align: left;
+	background-color: #fff;
+	padding: 8px;
+}
+#general,#history,#awards,#lastModified
+{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#heder
+{
+	border: 2px solid #ccc;
+	border-bottom-width: 0;
+	background-color: #cd3301;
+	font-weight: bold;
+	width: 100%;
+}
+#title
+{
+	color: #FFFFFF;
+	margin: 0;
+	font-size: 200%;
+	background-color: #CD3301;
+}
+#general,
+{
+	float：left;
+	width: 32%;
+	height: 537px;
+	border-left: 2px solid #CCCCCC;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-position: 20% 75%;
+}
+.row
+{
+	font-size: 110%;
+	border-bottom: 1px solid #f6f6f6;
+	margin: 1em;
+}
+#realname,#titlname,#birthday,#phone,#mobile,#email,#homepage,#im
+{
+	float: left;
+	width: 10em;
+}
+#imValue{font-size: 110%;}
+#objective
+{
+	float: left;
+	height: 65px;
+	width: 30%;
+	margin: auto;
+	text-align: left;
+	background-color: #fff;
+	padding: 10px;
+}
+body
+{
+	background-color: #fff;
+	margin:2em;
+	text-align: center;
+	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 90%;
+}
+h2
+{
+	color: #336;
+	font-size: 130%;
+	background-color: #ccc;
+	margin: 0 !important;
+	margin-top: 20px;
+}
+h3
+{
+	font-size: 100%;
+}
+#copyright
+{
+	clear: both;
+	border: 2px solid #ccc;
+	border-top-width: 0;
+	background-color: #CD3301;
+	color: #ffffff;
+	font-size: 100%;
+	font-family: arial;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 100%;
+}
+#history
+{
+	height: 230px;
+	float: left;
+	width: 29.5%;
+	margin: auto;
+	text-align: left;
+	background-color: #FFFFFF;
+	padding: 10px;
+}
+#awards
+{
+	float: left;
+	height: 120px;
+	width: 30%;
+	margin: auto;
+	text-align: left;
+	background-color: #FFFFFF;
+	padding: 10px;
+}
+#skillareas
+{
+	margin: auto;
+	float: right;
+	width: 30%;
+	height: 537px;
+	border-left: 1px solid #000;
+	border-right: 2px solid #CCCCCC;
+}
+#lastModified
+{
+	clear: both;
+	text-align: right;
+	font-size: 80%;
+	font-family: arial;
+	width: 100%;
+	border-top: 1px solid #000000;
+	border-left: 2px solid #CCCCCC;
+	border-right: 2px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
